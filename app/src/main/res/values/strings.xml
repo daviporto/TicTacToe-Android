@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="singlePlayer"> offline </string>
+    <string name="multiPlayer"> Online </string>
+    <string name="currentPlayer">jogador atual</string>
+    <string name="player1name">digite o nome do player 1</string>
+    <string name="player2name">digite o nome do player 2</string>
+    <string name="player1icon">escolha a imagem do player 1</string>
+    <string name="nameHint">nome</string>
+    <string name="endGame">o jogo acabou</string>
+    <string name="tie">velha </string>
+    <string name="playerWon">o vencedor é: </string>
+
+
+    <string name="btn_done">pronto</string>
+    <string name="btn_newGame">novo jogo </string>
+    <string name="btn_menu">menu</string>
+</resources>
